@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-Cursando Ciência da computação - Unochapecó.<br>Aprendendo Java EE e aplicações Web
+Cursando Ciência da computação - Unochapecó.<br>Aprendendo Java EE e Javascript
 
 
 ## 🌐 Redes Sociais:
