@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Pedro Henrique Knebel
 
-I'm a 21-year-old from Santa Catarina, Brazil, who is passionate about turning ideas into code and building impactful tech solutions. My journey in technology is driven by curiosity and the challenge of creating end-to-end applications—from a robust back-end to an intuitive, modern user interface.
+I'm a 21 year old from Santa Catarina, Brazil, who is passionate about turning ideas into code and building impactful tech solutions. My journey in technology is driven by curiosity and the challenge of creating end-to-end applications—from a robust back-end to an intuitive, modern user interface.
 
 Currently, I'm focused on diving deeper into the Java ecosystem, exploring the power of **Spring Framework** and the speed of **Quarkus** for cloud-native applications. I'm also strengthening my skills in the **Linux** environment, which I see as the foundation for any solid development setup.
 
